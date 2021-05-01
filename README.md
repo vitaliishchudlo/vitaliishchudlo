@@ -3,7 +3,10 @@
 - 🔭 I’m currently working on: GeoGuessr free bot project.
 - 📝 I’m planning on: KeyBoard statistic, MovieSaver and SteamNameChanger projects.
 
-∎ 📫 How to contact with me: vshchudlov28@gmail.com
+∎ 📫 How to contact with me: 
+                    • Email: vshchudlov28@gmail.com 
+                    • Twitter: vitaliishchudlo
+
 
 
 
