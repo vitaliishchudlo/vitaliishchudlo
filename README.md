@@ -4,7 +4,7 @@
 - 📝 I’m planning on: MovieSaver, SteamNameChanger projects and portfolio page codded in Django framework.
 
 ∎ 📫 How to contact with me: 
-                    • Email: vshchudlov28@gmail.com 
+                    • Email: vshchudlov28@gmail.com
                     • Twitter: vitaliishchudlo
 
 
