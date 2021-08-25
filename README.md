@@ -1,6 +1,6 @@
 ### Hi, guys 👋
 
-- 🔭 I’m currently working on: GeoGuessr free bot & Keyboard statistic projects.
+- 🔭 I’m currently working on: GeoGuessr free bot(Beta - working) & Keyboard statistic(frozen) projects.
 - 📝 I’m planning on: MovieSaver, SteamNameChanger projects and portfolio page codded in Django framework.
 
 ∎ 📫 How to contact with me: 
