@@ -11,7 +11,7 @@
     -
   -  MovieSaver
   -  SteamNameChanger
-  -  Portfolio page codded in Django framework.
+  -  Portfolio page codded in Django framework
 
 - ∎ 📫 How to contact with me:
     -
