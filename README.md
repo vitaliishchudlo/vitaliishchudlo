@@ -11,7 +11,6 @@
 - 📝 I’m planning on: 
     -
   -  MovieSaver
-  -  SteamNameChanger
   -  Portfolio page codded in Django framework
 
 - ∎ 📫 How to contact with me:
