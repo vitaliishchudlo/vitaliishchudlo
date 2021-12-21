@@ -16,6 +16,7 @@
 - ∎ 📫 How to contact with me:
     -
   - Email: vshchudlov28@gmail.com
+  - LinkedIn: 
   - Twitter: vitaliishchudlo
 
 
