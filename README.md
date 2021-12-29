@@ -3,13 +3,13 @@
 - 🔭 I’m currently working on: 
     -
   - GeoGuessr free bot | 🔋 Beta - working. Working on a new version ⚡🔋
-  - Social network(starnavi_task) | 🖥 Working on the frontend 🔄
-  - Multi link | ⏳ Preparing to start my own first big project 💡
-  - Keyboard statistic | 🧊 Temporarily frozen 🧊
   - SteamNameChanger | Developing the latest console version
 
 - 📝 I’m planning on: 
     -
+  - Social network(starnavi_task) | 🖥 Working on the frontend 🔄
+  - Multi link | ⏳ Preparing to start my own first big project 💡
+  - Keyboard statistic | 🧊 Temporarily frozen 🧊
   -  MovieSaver
   -  Portfolio page codded in Django framework
 
