@@ -2,21 +2,21 @@
 
 - 🔭 I’m currently working on: 
     -
-  - GeoGuessr free bot | 🔋 Beta - working. Working on a new version ⚡🔋
-  - SteamNameChanger | Developing the latest console version
+  - GeoGuessrFree bot (telegram bot) | 🔋 Beta version - workable. Developing a new version now⚡🔋
+  - SteamNameChanger | Developing the latest console version 
 
 - 📝 I’m planning on: 
     -
-  - Social network(starnavi_task) | 🖥 Working on the frontend 🔄
+  - Social network(starnavi_task) | 🖥 Add a frontend 🔄
   - Multi link | ⏳ Preparing to start my own first big project 💡
   - Keyboard statistic | 🧊 Temporarily frozen 🧊
-  -  MovieSaver
-  -  Portfolio page codded in Django framework
+  - MovieSaver
+  - Portfolio page codded in Django framework
 
 - ∎ 📫 How to contact with me:
     -
   - Email: vshchudlov28@gmail.com
-  - LinkedIn: 
+  - LinkedIn: https://www.linkedin.com/in/vitalii-shchudlo-61831718a/
   - Twitter: vitaliishchudlo
 
 
