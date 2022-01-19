@@ -2,16 +2,18 @@
 
 - 🔭 I’m currently working on: 
     -
+  - SteamNameChanger | Developing the latest console version
   - GeoGuessrFree bot (telegram bot) | 🔋 Beta version - workable. Developing a new version now⚡🔋
-  - SteamNameChanger | Developing the latest console version 
+   
 
 - 📝 I’m planning on: 
     -
+  - Keyboard statistic | 🧊 Temporarily frozen 🧊
   - Social network(starnavi_task) | 🖥 Add a frontend 🔄
   - Multi link | ⏳ Preparing to start my own first big project 💡
-  - Keyboard statistic | 🧊 Temporarily frozen 🧊
-  - MovieSaver
   - Portfolio page codded in Django framework
+  - MovieSaver
+
 
 - ∎ 📫 How to contact with me:
     -
