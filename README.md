@@ -20,9 +20,6 @@
   - LinkedIn: https://www.linkedin.com/in/vitalii-shchudlo-61831718a/
   - Twitter: vitaliishchudlo
 
-
-
-
 <!--
 - 🌱 I’m currently learning: 
 - 👯 I’m looking to collaborate on 
