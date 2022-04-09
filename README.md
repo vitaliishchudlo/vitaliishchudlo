@@ -1,9 +1,13 @@
 ### Hi, guys 👋
 
+- ☑️ My completed projects:
+    - [SteamNameChanger](https://github.com/vitaliishchudlo/steam_name_changer)
+
+
 - 🔭 I’m currently working on: 
     -
   - Discord bot for my discord server 🤖
-  - SteamNameChanger | Developing the latest version 2.0 💡
+  
   - GeoGuessrFree bot (telegram bot) | Developing a stable version 1.0🔋
    
 
