@@ -7,8 +7,9 @@
 - 🔭 I’m currently working on: 
     -
   - Discord bot for my discord server 🤖
-  
   - GeoGuessrFree bot (telegram bot) | Developing a stable version 1.0🔋
+
+  - Diploma project at the university (MicroPyton) 
    
 
 - 📝 I’m planning on: 
