@@ -23,7 +23,7 @@
     -
   - Email: vshchudlov28@gmail.com
   - LinkedIn: https://www.linkedin.com/in/vitalii-shchudlo-61831718a/
-  - Twitter: vitaliishchudlo
+  - Twitter: [vitaliishchudlo](https://twitter.com/VitaliiShchudlo)
 
 <!--
 - 🌱 I’m currently learning: 
