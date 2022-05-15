@@ -9,7 +9,7 @@
   - Discord bot for my discord server 🤖
   - GeoGuessrFree bot (telegram bot) | Developing a stable version 1.0🔋
 
-  - Diploma project at the university (MicroPyton) 
+  - Diploma project at the university (MicroPython) 
    
 
 - 📝 I’m planning on: 
