@@ -2,14 +2,14 @@
 
 - ☑️ My completed projects:
     - [SteamNameChanger](https://github.com/vitaliishchudlo/steam_name_changer)
+    - [YouTube Graph (Need to be refactored)](https://github.com/vitaliishchudlo/mediagroupukraine_test_task)
 
 
 - 🔭 I’m currently working on: 
     -
-  - Discord bot for my discord server 🤖
-  - GeoGuessrFree bot (telegram bot) | Developing a stable version 1.0🔋
-
-  - Diploma project at the university (MicroPython) 
+  - [Discord bot for my discord server 🤖](https://github.com/vitaliishchudlo/discord_bot_wefi)
+  - [GeoGuessrFree bot (telegram bot) | Developing a stable version 1.0🔋](https://github.com/vitaliishchudlo/geoguessr_bot)
+  - [Diploma project at the university (MicroPython)](https://github.com/vitaliishchudlo/social_statistics)
    
 
 - 📝 I’m planning on: 
