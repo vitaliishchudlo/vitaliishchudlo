@@ -2,7 +2,7 @@
 
 - ☑️ My completed projects:
     - [SteamNameChanger](https://github.com/vitaliishchudlo/steam_name_changer)
-    - [YouTube Graph (Need to be refactored)](https://github.com/vitaliishchudlo/mediagroupukraine_test_task)
+    - [YouTube Statistics Graph](https://github.com/vitaliishchudlo/mediagroupukraine_test_task)
 
 
 - 🔭 I’m currently working on: 
