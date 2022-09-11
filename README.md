@@ -1,8 +1,8 @@
 ### Hi, guys 👋
 
 - ☑️ My completed projects:
-    - [x] [SteamNameChanger](https://github.com/vitaliishchudlo/steam_name_changer)
-    - [] [YouTube Statistics Graph](https://github.com/vitaliishchudlo/mediagroupukraine_test_task)
+    - [SteamNameChanger](https://github.com/vitaliishchudlo/steam_name_changer)
+    - [YouTube Statistics Graph](https://github.com/vitaliishchudlo/mediagroupukraine_test_task)
 
 
 - 🔭 I’m currently working on: 
