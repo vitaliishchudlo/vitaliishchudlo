@@ -13,10 +13,10 @@
    
 
 - 📝 I’m planning on: 
-    -
-  - Keyboard statistic | 🧊 Temporarily frozen 🧊
-  - [Social network(starnavi_task) | 🖥 Add a frontend 🔄](https://github.com/vitaliishchudlo/starnavi_task)
-  `- Portfolio page codded in Django framework
+    - 
+  `- Keyboard statistic | 🧊 Temporarily frozen 🧊`
+  `- [Social network(starnavi_task) | 🖥 Add a frontend 🔄](https://github.com/vitaliishchudlo/starnavi_task)`
+  `- Portfolio page codded in Django framework`
 
 
 - ∎ 📫 How to contact with me:
