@@ -12,8 +12,7 @@
   - [Diploma project at the university (MicroPython)](https://github.com/vitaliishchudlo/social_statistics)
    
 
-- 📝 I’m planning on: 
-    - 
+- 📝 I’m planning on:
   - Keyboard statistic | 🧊 Temporarily frozen 🧊
   - [Social network(starnavi_task) | 🖥 Add a frontend 🔄](https://github.com/vitaliishchudlo/starnavi_task)
   - Portfolio page codded in Django framework
